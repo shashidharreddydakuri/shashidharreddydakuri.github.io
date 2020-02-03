@@ -1,7 +1,5 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+## Shashidharreddy's blog
 
-![Image of fast.ai logo](images/logo.png)
+### This is my first blog experience.
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Recently I a fastai blog in that jeremy explained how easily anyone can create their own blog. The template is great, but I couldn't follow it but it is wonderful initiative. Then I searched google is there any one tried jeremy's template then I found this [medium blog](https://towardsdatascience.com/create-your-free-blog-site-204a5e27f197) and I followed his github repo to create this blog.
