@@ -7,11 +7,14 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: shashidharreddy's blog
+
 description: This is a technology blog mainly focus on Augmented Reality, Deep Learning, flutter, django and production.❤
+
 github_username: shashidharreddydakuri
 
 # Email and twitter are optional:
 email: d.shashidhar1996@gmail.com
+
 twitter_username: RajaShashidhar3
 
 # Set this to true to get LaTeX math equation support
